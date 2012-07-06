@@ -1,4 +1,4 @@
 
 public class Null {
-
+/*kokoko*/
 }
